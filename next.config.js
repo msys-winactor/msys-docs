@@ -5,7 +5,7 @@ const withNextra = require('nextra')({
 
 module.exports = withNextra({
   output: 'export',
-  basePath: '', // GitHub Pages のサブパスに合わせる
+  basePath: '/msys-docs', // GitHub Pages のサブパスに合わせる
   trailingSlash: true,
   images: {
     unoptimized: true, // ← これを追加
