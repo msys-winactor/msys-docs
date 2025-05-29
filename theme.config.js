@@ -7,11 +7,6 @@ const config = {
   footer: {
     text: '© 2025 MSYS',
   },
-  sidebar: [
-    { label: 'Index', link: '/' },
-    { label: 'DevelopEnviroment', link: '/dev-env' },
-    { label: 'Github', link: '/github' },
-  ],
 }
 
 export default config
