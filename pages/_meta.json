@@ -1,5 +1,4 @@
 {
-    "/": { "title": "Index" },
     "dev-env": {
         "title": "開発環境関連",
         "type": "directory",
